@@ -25,4 +25,4 @@ else if (codigoProduto == 5) {
 
 let valor = preco * quantidade
 
-console.log("Valor a pagar: R$ " + valor.toFixed(2));
+alert("Valor a pagar: R$ " + valor.toFixed(2));
